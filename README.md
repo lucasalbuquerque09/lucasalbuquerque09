@@ -60,15 +60,7 @@ Me chamo Lucas Albuquerque Ramos Da Silva,tenho 25 anos e sou natural do Rio de 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
-<br/>
-<br/>
-<br/>
 
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=lucasalbuquerque09&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
 
 
 <!-- ---
