@@ -2,7 +2,7 @@
 
 **`👨‍💻 Estudante FullStack`**
 
-Me chamo Lucas Albuquerque Ramos Da Silva,tenho 25 anos e sou natural do Rio de Janeiro! Decidi trilhar o caminho de programador e escolhi o front-end como meu ponto de partida. Atualmente , estou estudando e praticando projetos simples com HTML , CSS e logo mais , iniciando o aprendizado de JavaScript e React.
+Me chamo Lucas Albuquerque Ramos Da Silva,tenho 25 anos e sou natural do Rio de Janeiro! Decidi trilhar o caminho de programador e escolhi o front-end como meu ponto de partida. Atualmente , estou estudando e praticando projetos simples com HTML , CSS , JavaScript e logo mais , iniciando o aprendizado de React.
 
 <!-- <a href="https://github.com/lucasalbuquerque09?tab=repositories&sort=stargazers">
         <img 
