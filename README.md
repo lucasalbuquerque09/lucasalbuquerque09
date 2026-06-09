@@ -1,87 +1,77 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="160" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="coding gif" />
 </div>
 
-<!--###
+<h1 align="center">Olá, eu sou o Lucas Albuquerque 👋</h1>
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>-->
+<p align="center">
+  Estudante Full Stack em formação, com foco em desenvolvimento front-end e evolução constante em tecnologias web.
+</p>
 
-## Hi there 👋
-
-**`👨‍💻 Estudante FullStack`**
-
-Me chamo Lucas Albuquerque Ramos Da Silva,tenho 25 anos e sou natural do Rio de Janeiro! Decidi trilhar o caminho de programador e escolhi o front-end como meu ponto de partida. Atualmente , estou estudando e praticando projetos simples com HTML , CSS , JavaScript e logo mais , iniciando o aprendizado de React.
-
-<!-- <a href="https://github.com/lucasalbuquerque09?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/lucasalbuquerque09?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-</a>
-<a href="https://github.com/lucasalbuquerque09?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/lucasalbuquerque09?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-</a> -->
+<p align="center">
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:seuemail@exemplo.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/lucasalbuquerque09">
+    <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
-### 🤖 Linguagens
+## 🚀 Sobre mim
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
+Me chamo **Lucas Albuquerque Ramos da Silva**, tenho 25 anos e sou do **Rio de Janeiro**.
 
+Estou em transição e desenvolvimento constante na área de tecnologia, estudando e praticando projetos com foco em **HTML, CSS, JavaScript** e iniciando minha jornada com **React**.
 
+Tenho interesse em criar interfaces modernas, responsivas e funcionais, enquanto evoluo como desenvolvedor full stack.
 
+---
 
-<!-- ---
+## 🛠️ Tecnologias que estudo
 
-### 📊 Estatísticas
+<div align="left">
+  <img alt="HTML" title="HTML" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img alt="CSS" title="CSS" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img alt="JavaScript" title="JavaScript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img alt="React" title="React" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img alt="Git" title="Git" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img alt="GitHub" title="GitHub" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+</div>
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+---
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+## 📚 Atualmente estudando
 
-</p>-->
+- Desenvolvimento Front-End
+- JavaScript moderno
+- React
+- Versionamento com Git e GitHub
+- Boas práticas de HTML e CSS
 
+---
+
+## 🎯 Objetivos
+
+- Evoluir como desenvolvedor full stack
+- Construir projetos práticos e criativos
+- Conquistar uma oportunidade na área de desenvolvimento
+- Compartilhar minha evolução através do GitHub
+
+---
+
+## 📫 Contato
+
+- GitHub: **@lucasalbuquerque09**
+- LinkedIn: **adicione seu link aqui**
+- Email: **adicione seu email aqui**
+
+---
+
+<p align="center">
+  Obrigado por visitar meu perfil! 🚀
+</p>
