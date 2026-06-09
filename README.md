@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Lucas Albuquerque 👋</h1>
 
 <p align="center">
-  Desenvolvedor em formação com foco em front-end, criando interfaces modernas com HTML, CSS, JavaScript e React.
+  Desenvolvedor em formação com foco em front-end, criando interfaces modernas com HTML, CSS e JavaScript.
 </p>
 
 <p align="center">
