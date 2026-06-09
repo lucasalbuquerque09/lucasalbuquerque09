@@ -25,7 +25,7 @@ Atualmente estudo e desenvolvo projetos para fortalecer meus conhecimentos em **
 
 ## 🛠️ Tecnologias
 
-<p align="center">
+<p>
   <img alt="HTML" title="HTML" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img alt="CSS" title="CSS" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img alt="JavaScript" title="JavaScript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
