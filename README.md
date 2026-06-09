@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="160" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="coding gif" />
-</div>
-
 <h1 align="center">Olá, eu sou o Lucas Albuquerque 👋</h1>
 
 <p align="center">
@@ -9,10 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:seuemail@exemplo.com">
+  <a href="mailto:lc.albuquerque09@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/lucasalbuquerque09">
@@ -45,6 +38,15 @@ Tenho interesse em criar interfaces modernas, responsivas e funcionais, enquanto
 
 ---
 
+## 📊 Estatísticas GitHub
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=lucasalbuquerque09&show_icons=true&theme=transparent&locale=pt-br" alt="GitHub Stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasalbuquerque09&layout=compact&theme=transparent&locale=pt-br" alt="Top Languages" />
+</p>
+
+---
+
 ## 📚 Atualmente estudando
 
 - Desenvolvimento Front-End
@@ -52,6 +54,16 @@ Tenho interesse em criar interfaces modernas, responsivas e funcionais, enquanto
 - React
 - Versionamento com Git e GitHub
 - Boas práticas de HTML e CSS
+
+---
+
+## 🌟 Projetos em destaque
+
+- [web-cronometro](https://github.com/lucasalbuquerque09/web-cronometro) — cronômetro web com foco em prática de lógica e interface.
+- [relogio-digital](https://github.com/lucasalbuquerque09/relogio-digital) — projeto de relógio digital para treinar JavaScript e manipulação do DOM.
+- [convert-money](https://github.com/lucasalbuquerque09/convert-money) — conversor de moedas com interface simples e funcional.
+- [login-registration-screen](https://github.com/lucasalbuquerque09/login-registration-screen) — tela de login e cadastro com foco em layout e experiência visual.
+- [Simple-age-calculator](https://github.com/lucasalbuquerque09/Simple-age-calculator) — calculadora de idade para praticar interações e lógica no front-end.
 
 ---
 
@@ -67,11 +79,9 @@ Tenho interesse em criar interfaces modernas, responsivas e funcionais, enquanto
 ## 📫 Contato
 
 - GitHub: **@lucasalbuquerque09**
-- LinkedIn: **adicione seu link aqui**
-- Email: **adicione seu email aqui**
+- Email: **lc.albuquerque09@gmail.com**
 
 ---
 
 <p align="center">
-  Obrigado por visitar meu perfil! 🚀
-</p>
+  Obrigado por visitar meu perfil! 🚀</p>
