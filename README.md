@@ -19,7 +19,7 @@
 
 Sou **Lucas Albuquerque Ramos da Silva**, do **Rio de Janeiro**, e estou construindo minha trajetória na tecnologia com foco em desenvolvimento web.
 
-Atualmente estudo e desenvolvo projetos para fortalecer meus conhecimentos em **HTML, CSS, JavaScript** e **React**, sempre buscando evolução prática e constante.
+Atualmente estudo e desenvolvo projetos para fortalecer meus conhecimentos em **HTML, CSS e JavaScript**, sempre buscando evolução prática e constante.
 
 ---
 
@@ -29,7 +29,7 @@ Atualmente estudo e desenvolvo projetos para fortalecer meus conhecimentos em **
   <img alt="HTML" title="HTML" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img alt="CSS" title="CSS" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img alt="JavaScript" title="JavaScript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img alt="React" title="React" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <!--<img alt="React" title="React" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />-->
   <img alt="Git" title="Git" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img alt="GitHub" title="GitHub" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 </p>
@@ -49,10 +49,9 @@ Atualmente estudo e desenvolvo projetos para fortalecer meus conhecimentos em **
 
 - Desenvolvimento Front-End
 - JavaScript moderno
-- React
 - Versionamento com Git e GitHub
 - Boas práticas de HTML e CSS
-
+<!--- React-->
 ---
 
 ## 🌟 Projetos em destaque
