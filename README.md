@@ -56,10 +56,12 @@ Atualmente estudo e desenvolvo projetos para fortalecer meus conhecimentos em **
 
 ## 🌟 Projetos em destaque
 
-- [web-cronometro](https://github.com/lucasalbuquerque09/web-cronometro) — prática de lógica, temporização e interface.
-- [relogio-digital](https://github.com/lucasalbuquerque09/relogio-digital) — manipulação do DOM com atualização em tempo real.
 - [convert-money](https://github.com/lucasalbuquerque09/convert-money) — conversor de moedas com interatividade em JavaScript.
-- [login-registration-screen](https://github.com/lucasalbuquerque09/login-registration-screen) — tela de autenticação com foco em layout.
+- [Start-Project-Website-with-Login](https://github.com/lucasalbuquerque09/Start-Project-Website-with-Login) — projeto de website com tela de login e foco em interface.
+- [DevSorteio](https://github.com/lucasalbuquerque09/DevSorteio) — projeto de sorteio com lógica em JavaScript e interação na página.
+- [relogio-digital](https://github.com/lucasalbuquerque09/relogio-digital) — manipulação do DOM com atualização em tempo real.
+- [web-cronometro](https://github.com/lucasalbuquerque09/web-cronometro) — prática de lógica, temporização e interface.
+- [Calculadora.js](https://github.com/lucasalbuquerque09/Calculadora.js) — calculadora desenvolvida com JavaScript para praticar operações e interface.
 - [Simple-age-calculator](https://github.com/lucasalbuquerque09/Simple-age-calculator) — prática de lógica com formulários e resultados dinâmicos.
 
 ---
