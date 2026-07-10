@@ -39,8 +39,8 @@ Atualmente estudo e desenvolvo projetos para fortalecer meus conhecimentos em **
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="145" src="https://github-readme-stats.vercel.app/api?username=lucasalbuquerque09&show_icons=true&theme=blue_navy&locale=pt-br" alt="GitHub Stats" />
-  <img height="145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasalbuquerque09&layout=compact&theme=blue_navy&locale=pt-br" alt="Top Languages" />
+  <img height="145" src="https://github-readme-stats.vercel.app/api?username=lucasalbuquerque09&show_icons=true&theme=tokyonight&locale=pt-br&cache_seconds=1800" alt="GitHub Stats" />
+  <img height="145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasalbuquerque09&layout=compact&theme=tokyonight&locale=pt-br&cache_seconds=1800" alt="Top Languages" />
 </p>
 
 ---
