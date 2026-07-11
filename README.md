@@ -35,18 +35,6 @@ Atualmente estudo e desenvolvo projetos para fortalecer meus conhecimentos em **
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    height="160"
-    src="https://github-readme-stats.vercel.app/api?username=lucasalbuquerque09&theme=radical"
-    alt="GitHub Stats"
-  />
-</p>
-
----
-
 ## 📚 Atualmente estudando
 
 - Desenvolvimento Front-End
