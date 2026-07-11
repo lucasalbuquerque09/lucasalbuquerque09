@@ -40,15 +40,15 @@ Atualmente estudo e desenvolvo projetos para fortalecer meus conhecimentos em **
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
-      height="145"
-      src="https://github-readme-stats.vercel.app/api?username=lucasalbuquerque09&show_icons=true&rank_icon=github&theme=radical&locale=pt-br&cache_seconds=1800"
+      height="160"
+      src="https://github-readme-stats.vercel.app/api?username=lucasalbuquerque09&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800"
       alt="GitHub Stats"
     />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
-      height="145"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasalbuquerque09&layout=compact&theme=radical&locale=pt-br&cache_seconds=1800"
+      height="160"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasalbuquerque09&layout=compact&theme=radical&langs_count=8&cache_seconds=1800"
       alt="Top Languages"
     />
   </a>
