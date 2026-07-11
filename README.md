@@ -29,7 +29,6 @@ Atualmente estudo e desenvolvo projetos para fortalecer meus conhecimentos em **
   <img alt="HTML" title="HTML" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img alt="CSS" title="CSS" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img alt="JavaScript" title="JavaScript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <!--<img alt="React" title="React" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />-->
   <img alt="Git" title="Git" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img alt="GitHub" title="GitHub" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 </p>
@@ -39,16 +38,24 @@ Atualmente estudo e desenvolvo projetos para fortalecer meus conhecimentos em **
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    height="145"
-    src="https://github-readme-stats.vercel.app/api?username=lucasalbuquerque09&show_icons=true&rank_icon=github&theme=radical&locale=pt-br"
-    alt="GitHub Stats"
-  />
-  <img
-    height="145"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasalbuquerque09&layout=compact&theme=radical&locale=pt-br"
-    alt="Top Languages"
-  />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      height="145"
+      src="https://github-readme-stats.vercel.app/api?username=lucasalbuquerque09&show_icons=true&rank_icon=github&theme=radical&locale=pt-br&cache_seconds=1800"
+      alt="GitHub Stats"
+    />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      height="145"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasalbuquerque09&layout=compact&theme=radical&locale=pt-br&cache_seconds=1800"
+      alt="Top Languages"
+    />
+  </a>
+</p>
+
+<p align="center">
+  Se a imagem não carregar, teste abrir a URL diretamente no navegador.
 </p>
 
 ---
@@ -59,7 +66,7 @@ Atualmente estudo e desenvolvo projetos para fortalecer meus conhecimentos em **
 - JavaScript moderno
 - Versionamento com Git e GitHub
 - Boas práticas de HTML e CSS
-<!--- React-->
+
 ---
 
 ## 🌟 Projetos em destaque
