@@ -72,4 +72,4 @@ Atualmente estudo e desenvolvo projetos para fortalecer meus conhecimentos em **
 
 - GitHub: **@lucasalbuquerque09**
 - Email: **lc.albuquerque09@gmail.com**
-- LinkedIn: **[lucas-a-r-s](https://linkedin.com/in/lucas-a-r-s)**
+- LinkedIn: **[lucasalbuquerque09](https://linkedin.com/in/lucasalbuquerque09)**
