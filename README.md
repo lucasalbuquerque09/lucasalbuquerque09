@@ -11,6 +11,9 @@
   <a href="https://github.com/lucasalbuquerque09">
     <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://linkedin.com/in/lucas-a-r-s" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
 ---
@@ -69,3 +72,4 @@ Atualmente estudo e desenvolvo projetos para fortalecer meus conhecimentos em **
 
 - GitHub: **@lucasalbuquerque09**
 - Email: **lc.albuquerque09@gmail.com**
+- LinkedIn: **[lucas-a-r-s](https://linkedin.com/in/lucas-a-r-s)**
