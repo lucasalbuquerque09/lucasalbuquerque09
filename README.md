@@ -10,7 +10,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/lucasalbuquerque09">
-    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/lucas-a-r-s" target="_blank" rel="noopener noreferrer">
