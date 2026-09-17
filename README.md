@@ -92,6 +92,6 @@ Atualmente, estou aprimorando meus conhecimentos em HTML, CSS, JavaScript e boas
 - Email: **lc.albuquerque09@gmail.com**
 - LinkedIn: **[lucas-a-r-s](https://linkedin.com/in/lucas-a-r-s)**
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lucasalbuquerque09&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-</p>
+</p> -->
